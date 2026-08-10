@@ -1,0 +1,18 @@
+.DS_Store
+
+# исходники и рабочие файлы — в репозиторий не нужны
+img/ref/
+
+# картинки, не используемые в вёрстке
+img/jetter.jpg
+img/jetter-art.jpg
+img/pipe-art.jpg
+img/poster.jpg
+img/truck.jpg
+img/truck-art.jpg
+img/nozzle.jpg
+
+# черновики вариантов и брифы
+heroes/
+photo-brief.md
+video-brief.md
